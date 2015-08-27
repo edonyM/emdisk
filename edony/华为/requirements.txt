@@ -1,0 +1,24 @@
+1. C++基础知识，特别是模板、静态函数、标准库
+
+2. Python知识梳理(自己特色的地方)
+
+3. Shell脚本
+
+4. 计算机网络知识
+
+5. 分布式操作系统知识、Linux操作系统基础知识
+
+6. 项目中需要准备的知识：
+    a. GaussionMap算法特点，HoughTransform算法特点，RANSAC算法(详细)
+    b. RANSAC算法改进方法(PCA聚类器进行二次分割)
+    c. Scale-invariantFeatureTransform算法特点，ICP算法(详细)，SparseICP算法特点
+    d. ICP算法的改进(基于基准的ICP)
+    e. Python多线程与协程实现，多线程相关知识，协程相关知识
+    f. 系统性能瓶颈分析
+    g. LOOCV算法
+    h. DFS算法
+    i. 网络爬虫知识
+    j. map-reduce思想
+    k. producer-consumer model
+    l. SVM算法
+    m. OCR模型
